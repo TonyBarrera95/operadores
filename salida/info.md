@@ -1,0 +1,1 @@
+# Hola que tal, en esta carpeta se guardará la el resultado de la app
